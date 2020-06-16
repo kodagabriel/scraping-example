@@ -1,0 +1,12 @@
+{
+  "name": "scraping-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kodagabriel/scraping-example.git",
+  "author": "itskoda <kodagabriel@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^4.0.0"
+  }
+}
